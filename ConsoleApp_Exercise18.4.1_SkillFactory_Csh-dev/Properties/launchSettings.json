@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp_Exercise18.4.1_SkillFactory_Csh-dev": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.youtube.com/watch?v=2yqi1Jby1VM"
+    }
+  }
+}
